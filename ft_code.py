@@ -4,7 +4,7 @@ from scipy.constants import c
 from scipy.fftpack import fft
 import math
 # Number of sample points
-fin = open("output_tcf_col11_t10000", 'r')
+fin = open("output_tcf_col11_t1000", 'r')
 lines = fin.readlines()
 
 #print(len(lines))
